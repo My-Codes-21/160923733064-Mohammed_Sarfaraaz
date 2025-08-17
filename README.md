@@ -1,4 +1,5 @@
-DESCRIPTION OF THE CODE
+<h1> 📝 DESCRIPTION OF THE CODE</h1>
+---
 
 
 
@@ -10,8 +11,8 @@ using an in-memory data structure
 
 
 
-
-Project Structure Overview
+<h1> 📦 PROJECT STRUCTURE OVERVIEW</h1>
+---
 
 
 
@@ -24,11 +25,11 @@ A Java class representing a task with fields: id, title, description, and status
 
 Contains getters, setters, and a toString() method.
 
-Status (Enum)
+<h1>Status (Enum)</h1>
 
 An enumeration that defines valid task statuses: TODO, IN_PROGRESS, COMPLETED, BLOCKED.
 
-TaskService (Service Layer)
+<h1>TaskService (Service Layer)</h1>
 
 Acts as the business logic layer.
 
@@ -36,13 +37,13 @@ Stores tasks in a Map<Long, Task>, simulating a database.
 
 Handles operations like creating, retrieving, updating, and deleting tasks.
 
-TaskController (REST Controller)
+<h1>TaskController (REST Controller)</h1>
 
 Exposes HTTP endpoints for task operations under /tasks.
 
 Uses @RestController and @RequestMapping annotations.
 
-Supports:
+<h1>Supports:</h1>
 
 POST /tasks → Create a new task
 
@@ -57,7 +58,7 @@ DELETE /tasks/{id} → Delete a task
 
 
 
-( Postman Working )
+<h1>POSTMAN WORKING</h1>
 
 
 
@@ -68,31 +69,40 @@ after that follow the below steps
 
 
 
+---
 
-POST
+
+<h1>POST</h1>
 
 
 ![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/b5f24f48086361c98eb85ccaabbced42cd0a132b/post.png)
 
 
-GET
+---
+
+
+<h1>GET</h1>
 
 
 ![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/5d260ef213e83b1a872a57e9285f7feace6594ef/Get.png)
 
+---
 
-PUT 
+
+<h1>PUT</h1>
 
 
 ![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/5d260ef213e83b1a872a57e9285f7feace6594ef/PUT.png)
 
+---
 
-DELETE
+
+<h1>DELETE</h1>
 
 
 ![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/5d260ef213e83b1a872a57e9285f7feace6594ef/Delete.png)
 
 
-
+---
 
 
