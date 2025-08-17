@@ -68,9 +68,31 @@ after that follow the below steps
 
 
 
+
 POST
 
 
 ![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/b5f24f48086361c98eb85ccaabbced42cd0a132b/post.png)
+
+
+GET
+
+
+![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/5d260ef213e83b1a872a57e9285f7feace6594ef/Get.png)
+
+
+PUT 
+
+
+![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/5d260ef213e83b1a872a57e9285f7feace6594ef/PUT.png)
+
+
+DELETE
+
+
+![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/5d260ef213e83b1a872a57e9285f7feace6594ef/Delete.png)
+
+
+
 
 
