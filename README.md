@@ -68,5 +68,9 @@ after that follow the below steps
 
 
 
+POST
+
+
+![image alt](https://github.com/My-Codes-21/160923733064-Mohammed_Sarfaraaz/blob/b5f24f48086361c98eb85ccaabbced42cd0a132b/post.png)
 
 
