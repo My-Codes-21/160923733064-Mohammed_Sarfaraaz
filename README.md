@@ -1,13 +1,23 @@
 📝 Description of the Code
 
+
+
 This is a simple Spring Boot REST API for managing tasks.
-
 It supports basic CRUD operations (Create, Read, Update, Delete)
-
 using an in-memory data structure
 
 
+
+
+
+
 Project Structure Overview
+
+
+
+
+
+
 Task (Model)
 
 A Java class representing a task with fields: id, title, description, and status (currently as String).
@@ -49,7 +59,10 @@ DELETE /tasks/{id} → Delete a task
 
 ( Postman Working )
 
-open postman click on collections click on plus(+) icon select blank collectin
+
+
+open postman click on collections click on plus(+)
+icon select blank collectin
 then click on add request 
 after that follow the below steps
 
